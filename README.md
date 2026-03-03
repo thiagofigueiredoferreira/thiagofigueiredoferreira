@@ -25,16 +25,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tra
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagofigueiredoferreira&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofigueiredoferreira&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Filosofia
 
@@ -45,8 +36,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tra
 
 ### 🌐 Onde me encontrar
 
-<a href="https://www.linkedin.com/in/thiago-figueiredo-ferreira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:seu-email@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/thiago-f-11b147300/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:thiagofigueiredoferrera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://THIAGOFIGUEIREDOFERREIRA.github.io" target="_blank"><img src="https://img.shields.io/badge/Meu%20Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"></a>
 
 ---
