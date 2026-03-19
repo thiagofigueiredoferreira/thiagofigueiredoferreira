@@ -2,7 +2,9 @@
 
 🚀 **Desenvolvedor Front-end em Formação** 📍 Franco da Rocha, SP - Brasil
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por transformar ideias em interfaces modernas e funcionais. Atualmente, estou focado em construir meu **portfólio profissional** e em busca da minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
+Estudante de **Análise e Desenvolvimento de Sistemas**, focado em criar soluções completas e escaláveis. Atualmente, dedico meus estudos ao ecossistema **Full Stack**, unindo a construção de interfaces modernas com o desenvolvimento de back-ends robustos. 
+
+Estou em busca da minha primeira oportunidade como **Estagiário ou Desenvolvedor Full Stack Júnior**, onde eu possa aplicar meus conhecimentos em **React, Node.js e containers** para resolver problemas reais.
 
 ---
 
