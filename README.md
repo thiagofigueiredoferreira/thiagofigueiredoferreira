@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Thiago Figueiredo
 
-🚀 **Desenvolvedor Front-end em Formação** 📍 Franco da Rocha, SP - Brasil
+🚀 **Desenvolvedor Full Stack em Formação** 📍 Franco da Rocha, SP - Brasil
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, focado em criar soluções completas e escaláveis. Atualmente, dedico meus estudos ao ecossistema **Full Stack**, unindo a construção de interfaces modernas com o desenvolvimento de back-ends robustos. 
 
