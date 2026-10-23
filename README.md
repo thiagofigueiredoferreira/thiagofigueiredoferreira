@@ -1,48 +1,42 @@
-# Olá 👋, eu sou o Thiago Figueiredo
+# Olá, eu sou o Thiago Figueiredo 👋
 
-🚀 **Desenvolvedor Full Stack em Formação** 📍 Franco da Rocha, SP - Brasil
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em desenvolvimento **Back-End e Web**.
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, focado em criar soluções completas e escaláveis. Atualmente, dedico meus estudos ao ecossistema **Full Stack**, unindo a construção de interfaces modernas com o desenvolvimento de back-ends robustos. 
+Estou construindo minha base prática através da faculdade, cursos e projetos próprios, aprendendo a criar APIs funcionais, manipular bancos de dados e desenvolver interfaces web.
 
-Estou em busca da minha primeira oportunidade como **Estagiário ou Desenvolvedor Full Stack Júnior**, onde eu possa aplicar meus conhecimentos em **React, Node.js e containers** para resolver problemas reais.
-
----
-
-### 🧠 O que eu faço (Estudos & Projetos)
-
-* 🏗️ **Interfaces Web:** Desenvolvimento de sites modernos, responsivos e acessíveis.
-* ⚡ **Performance:** Aplicação de boas práticas de código e otimização de interfaces.
-* 🧩 **Componentização:** Criação de interfaces modulares utilizando React.
-* 🎨 **UI/UX:** Tradução de designs em experiências reais para o usuário.
-* ⚙️ **Consumo de APIs:** Integração de dados dinâmicos com JavaScript.
+🎯 **Objetivo:** Busco minha primeira oportunidade de **estágio** em desenvolvimento de software (Back-End ou Full-Stack).
 
 ---
 
-### 🛠️ Tech Stack (Frontend)
+### 💻 O que estou estudando e praticando
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-## 🚀 Filosofia
-
-> _"Código não é apenas sobre resolver problemas. 
-> É sobre construir soluções sólidas, eficientes e que geram valor real para quem as utiliza."_
+- **Back-End:** Criação de APIs REST simples com Node.js e Express.
+- **Linguagens:** JavaScript e conceitos iniciais de TypeScript.
+- **Bancos de Dados:** Estruturação e consultas relacionais com SQL / PostgreSQL.
+- **Front-End:** Construção de páginas responsivas com HTML5, CSS3 e introdução a React.
+- **Ferramentas:** Controle de versão com Git/GitHub e primeiros passos com Docker.
 
 ---
 
-### 🌐 Onde me encontrar
+### 🛠️ Tecnologias
 
-<a href="https://www.linkedin.com/in/thiago-f-11b147300/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:thiagofigueiredoferrera@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://THIAGOFIGUEIREDOFERREIRA.github.io" target="_blank"><img src="https://img.shields.io/badge/Meu%20Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-⭐ Se você gostou dos meus projetos, sinta-se à vontade para dar uma **star** nos repositórios!  
-🤝 Estou sempre aberto a colaborações, parcerias e novas ideias.
+### 📌 Projetos
+
+- **[Live Convert](https://github.com/thiagofigueiredoferreira/live-convert):** Projeto prático em JavaScript para conversão de moedas consumindo uma API pública de câmbio.
+
+---
+
+### 🌐 Contato
+
+- **LinkedIn:** [linkedin.com/in/thiiagodev](https://www.linkedin.com/in/thiiagodev/)
+- **Email:** thiagofigueiredoferreira@gmail.com
