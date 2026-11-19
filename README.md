@@ -28,11 +28,6 @@ Estou construindo minha base prática através da faculdade, cursos e projetos p
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-### 📌 Projetos
-
-- **[Live Convert](https://github.com/thiagofigueiredoferreira/live-convert):** Projeto prático em JavaScript para conversão de moedas consumindo uma API pública de câmbio.
 
 ---
 
